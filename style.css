@@ -1,0 +1,46 @@
+body {
+    background-color: #003366;
+}
+
+body, button, label {
+    color: #FFFFFF;
+}
+
+h1, h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+label, input {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+button {
+    width: 7%;
+    margin: 0 auto;
+    background-color: #006699;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+#livraria {
+    margin-top: 10px;
+    padding: 0;
+}
+
+#livraria li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
